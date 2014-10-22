@@ -26,6 +26,9 @@ html, body {
 	color: #2E2E2E;
 }
 
+.deck-container li strong {
+  color: #B1009A;
+}
 
 .deck-container .slide {
   background: #fff;
